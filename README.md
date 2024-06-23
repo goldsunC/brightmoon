@@ -1,2 +1,1 @@
 # brightmoon
-简介。
