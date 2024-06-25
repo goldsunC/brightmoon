@@ -1,1 +1,2 @@
-Hi,I'm goldsunC.我才是天才。
+Hi,I'm goldsunC.
+You can click [there](https://github.com/goldsunC) find me!
